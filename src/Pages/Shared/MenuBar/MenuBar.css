@@ -1,0 +1,26 @@
+.navbar-dark .navbar-toggler {
+  color: white !important;
+  border-color: white !important;
+}
+.navbar-toggler-icon {
+  display: inline-block;
+  width: 1.5em;
+  height: 1.5em;
+  vertical-align: middle;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  background-color: green;
+  border-radius: 50%;
+}
+.search {
+  height: 40px;
+  line-height: 20px;
+  padding: 20px;
+  color: white;
+  border-radius: 30px;
+}
+.menu-Bar {
+  display: flex !important;
+  justify-content: space-between !important;
+}
