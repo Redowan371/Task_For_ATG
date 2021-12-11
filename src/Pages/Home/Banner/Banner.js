@@ -48,11 +48,11 @@ const Banner = () => {
           )}
         </div>
         <div className="menuBanner_responsive">
-          <div className="row">
-            <div className="col-sm-6">
+          <div className="d-flex justify-content-between">
+            <div>
               <h5>Posts (365)</h5>
             </div>
-            <div className="col-sm-6 text-end">
+            <div>
               <h5>Filler: All {caretDown} </h5>
             </div>
           </div>
